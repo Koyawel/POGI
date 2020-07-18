@@ -34,7 +34,7 @@ function Mudaestado(el) {
 </script>
 </head>
 
-<body  style="background-image: url(https://images.hdqwalls.com/download/eagle-landscape-mountains-minimalist-ez-1920x1080.jpg);  background-repeat: repeat-x;" >
+<body  style="background-image: url(https://images.hdqwalls.com/download/minimal-sunset-landscape-4k-w5-1920x1080.jpg);  background-repeat: repeat-x;" >
 
         <!-- /.site-sidebar --> 
         <main class="main-wrapper clearfix">
