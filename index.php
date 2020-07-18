@@ -34,7 +34,7 @@ function Mudaestado(el) {
 </script>
 </head>
 
-<body  style="background-image: url(https://top-education.info/wp-content/uploads/2018/10/cool-anime-girl-wallpaper-hd-girl-anime-wallpaper-tag-download-hd-wallpaperhd-wallpapers-image-source-from-this.jpg);  background-repeat: repeat-x;" >
+<body  style="background-image: url(https://i.pinimg.com/564x/10/6e/65/106e6554e445f91c2847ef7daffb0b17.jpg);  background-repeat: repeat-x;" >
 
         <!-- /.site-sidebar --> 
         <main class="main-wrapper clearfix">
