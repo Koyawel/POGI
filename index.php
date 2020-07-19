@@ -8,7 +8,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo-collapse.png">
     <link rel="stylesheet" href="assets/css/pace.css">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CHECKER FULL</title>
+    <title>CVV CHECKER</title>
     <!-- CSS -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600%7CRoboto:400" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
